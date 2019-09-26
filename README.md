@@ -1,3 +1,14 @@
+THIS PROJECT IS BASED ON GOOGLE's First Progressive Web App Codelab:
+https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
+
+Service Worker in old-service-worker.js is based on the Lab.
+
+Currently used Service worker in service-worker.js is using Workbox Library for caching
+
+There is App Shell Cache and App Data Cache from API.
+
+RV
+
 # Your First Progressive Web App Codelab
 
 These are the resource files needed for the
